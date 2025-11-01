@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Deepak Prasad</h1>
 <h3 align="center">💼 Founder & CEO | Trayah Solution</h3>
 <h4 align="center">Fullstack Developer | Frontend Specialist | Release & Sprint Manager</h4>
 
